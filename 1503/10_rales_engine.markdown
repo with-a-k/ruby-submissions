@@ -100,8 +100,8 @@ Production: https://railsengine.herokuapp.com
 
 ### Erik Butcher
 
-Github:
-Production:
+Github: https://github.com/with-a-k/rales-engine-an-incomplete-api
+Production: https://enigmatic-fortress-1595.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
